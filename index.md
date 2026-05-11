@@ -12,6 +12,7 @@ Usage data, app preferences, and in-app activities.
 Data collected through Firebase services, such as user authentication details, device information, app usage statistics, app crashes, and other analytics data.
 
 
+
 3. How We Use Your Data
 We utilize your data for the following purposes:
 
